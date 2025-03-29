@@ -1,0 +1,21 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Optimal Sampling Methods for Function Approximation on
+  General 2D Domains Code
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Nicholas
+    email: nicholas.t.chmielewski@gmail.com
+    family-names: Chmielewski
+repository-code: 'https://github.com/nchmiele/Dissertation-Code'
+abstract: >-
+  Software used for the results obtained in the dissertation
+  "Optimal Sampling Methods for Function Approximation on
+  General 2D Domains"
+date-released: '2025-04-09'
